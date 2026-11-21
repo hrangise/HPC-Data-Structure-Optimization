@@ -1,0 +1,3 @@
+implementation,best_seconds,median_seconds,shallow_container_bytes
+List (baseline),0.6591217999957735,0.7262022999930196,160056
+Set (optimized),0.00027740000223275274,0.00029660000291187316,2097368
